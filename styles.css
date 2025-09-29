@@ -164,10 +164,10 @@ transition: background-color 0.3s ease;
 .newsletter button:hover {
 background-color: #ff94b2; }
 .map-icon {
-width: 14px; vertical-align: middle; margin-right: 5px;
+width: 16px; vertical-align: middle; margin-right: 6px;
 }
 .contact p { margin: 8px 0;
 font-size: 16px; }
 .social-icon {
-width: 30px; vertical-align: middle; margin-left: 5px;
+width: 16px; vertical-align: middle; margin-left: 6px;
 }
