@@ -46,7 +46,7 @@ header nav a:hover {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.7);
   padding: 15px;
   border-radius: 8px;
 }
