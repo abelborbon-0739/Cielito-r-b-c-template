@@ -128,3 +128,15 @@ footer {
   text-align: center;
   padding: 15px;
 }
+.cta-button {
+display: inline-block;
+margin-top: 15px;
+padding: 12px 25px;
+background-color: #e75480; /* pink button */ color: white;
+text-decoration: none;
+font-weight: bold;
+border-radius: 25px;
+transition: background-color 0.3s ease;
+}
+.cta-button:hover {
+background-color: #ff94b2; /* lighter pink on hover */ }
