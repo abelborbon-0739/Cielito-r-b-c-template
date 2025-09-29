@@ -164,7 +164,7 @@ transition: background-color 0.3s ease;
 .newsletter button:hover {
 background-color: #ff94b2; }
 .map-icon {
-width: 20px; vertical-align: middle; margin-right: 5px;
+width: 14px; vertical-align: middle; margin-right: 5px;
 }
 .contact p { margin: 8px 0;
 font-size: 16px; }
